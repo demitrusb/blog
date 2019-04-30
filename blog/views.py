@@ -7,3 +7,7 @@ def home_page(request):
 
 def blog_page(request):
 	return render(request)
+
+
+def contact_page(request):
+    return render(request)
